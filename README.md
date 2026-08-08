@@ -6,9 +6,9 @@ I also do love cryptology papers and blogs, so send me those if you want 💚.
 
 Preferred:
 
-**[SimpleX](https://simplex.chat)** <img src="https://matrix.org/assets/favicon.svg" alt="SimpleX favicon"/>: https://smp10.simplex.im/a#3ES9YHDAO_X0Ms3IFmS5i4udBVJu8YGvioaJ-RhDBLc
+**[SimpleX](https://simplex.chat)** <img src="https://simplex.chat/img/favicon.ico" alt="SimpleX favicon" width="16px" height="16px"/>: https://smp10.simplex.im/a#3ES9YHDAO_X0Ms3IFmS5i4udBVJu8YGvioaJ-RhDBLc
 
-**[Signal](https://signal.org)** <img src="https://signal.org/assets/images/favicon/favicon.svg" alt="Signal favicon"/>: https://signal.me/#eu/QnCEmiZY8TZuGRrbt_9P-C7gePuiQJrEgTlFgk6tjsVnO9rijeNGDYGQQ708e3XX
+**[Signal](https://signal.org)** <img src="https://signal.org/assets/images/favicon/favicon.svg" alt="Signal favicon" width="16px" height="16px"/>: https://signal.me/#eu/QnCEmiZY8TZuGRrbt_9P-C7gePuiQJrEgTlFgk6tjsVnO9rijeNGDYGQQ708e3XX
 
 Non-Preferred:
 
